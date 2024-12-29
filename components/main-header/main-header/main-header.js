@@ -5,7 +5,7 @@ import logoImg from "@/assets/logo.png";
 import classes from "./main-header.module.css";
 import Image from "next/image";
 
-import MainHeaderBackGround from "@/components/main-header/main-header-background";
+import MainHeaderBackGround from "@/components/main-header/main-header/main-header-background";
 
 export default function MainHeader() {
   return (
